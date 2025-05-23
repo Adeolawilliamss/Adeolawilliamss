@@ -34,8 +34,5 @@
 ---
 
 ### 📊 GitHub Stats
-
-![Adeola's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adeolawilliamss&show_icons=true&theme=tokyonight)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adeolawilliamss&layout=compact&theme=tokyonight)
 
