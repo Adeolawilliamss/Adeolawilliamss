@@ -1,6 +1,6 @@
 ## 👋 Hi there, I'm Adeola!
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Micro-Services**
 - 👯 I’m looking to collaborate with teams or on fun dev experiments
 - 📫 How to reach me: **Adeolaoladeinde6@gmail.com**
 - ⚡ Fun fact: I enjoy **reading and writing**
